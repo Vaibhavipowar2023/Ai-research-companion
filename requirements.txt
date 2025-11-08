@@ -1,0 +1,9 @@
+openai
+requests
+xmltodict
+sentence-transformers
+nltk
+numpy
+python-dotenv
+flask
+flask-cors
