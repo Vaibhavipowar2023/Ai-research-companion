@@ -21,8 +21,7 @@
     }
   ],
   "env": {
-    "OPENAI_API_KEY": "@openai_api_key"
-",
+    "OPENAI_API_KEY": "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",
     "OPENAI_MODEL": "gpt-4o-mini",
     "EMBEDDING_MODEL": "all-MiniLM-L6-v2"
   }
