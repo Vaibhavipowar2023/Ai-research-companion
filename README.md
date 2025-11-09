@@ -1,4 +1,4 @@
-# AI Research Companion - Vercel Deployment
+# AI Research Companion 
 
 A modern web application that helps researchers find, summarize, and synthesize academic papers from arXiv and PubMed, then generates actionable research plans.
 
@@ -252,6 +252,4 @@ For issues or questions:
 - arXiv and PubMed for paper APIs
 - Vercel for hosting platform
 
----
 
-**Note**: This is a conversion of the original Streamlit app to work with Vercel's serverless architecture. The original Streamlit version can still be deployed on Streamlit Cloud, Railway, or Render for a different deployment experience.
